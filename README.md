@@ -1,25 +1,42 @@
-# TorrentXDesk
+<p align="center">
+  <img src="assets/torrentxdesk.png" width="96" alt="TorrentXDesk logo">
+</p>
 
-**Fast, simple torrents on your desktop.** The desktop edition of TorrentX, *an Autcust product*.
+<h1 align="center">TorrentXDesk</h1>
 
-## ⬇️ Download
+<p align="center">
+  <b>Fast, simple torrents on your desktop.</b><br>
+  The desktop edition of TorrentX, <i>an Autcust product</i>.
+</p>
 
-### Windows 10 / 11 (64-bit)
+<p align="center">
+  <a href="https://github.com/thetitanreddy/TorrentXDesk/releases/latest/download/TorrentXDesk-Setup.exe"><img src="https://img.shields.io/badge/Download_for-Windows-0078D4?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSIjZmZmIiBkPSJNNjcuMzI4IDY3LjMzMWg2MC42NjlWMTI4SDY3LjMyOHptLTY3LjMyNSAwaDYwLjY2OVYxMjhILjAwM3pNNjcuMzI4IDBoNjAuNjY5djYwLjY2OUg2Ny4zMjh6TS4wMDMgMGg2MC42Njl2NjAuNjY5SC4wMDN6Ii8+PC9zdmc+" alt="Download for Windows" height="40"></a>
+  &nbsp;
+  <a href="#linux"><img src="https://img.shields.io/badge/Download_for-Linux-1F2328?style=for-the-badge&logo=linux&logoColor=white" alt="Download for Linux" height="40"></a>
+</p>
 
-**[Download TorrentXDesk for Windows](https://github.com/thetitanreddy/TorrentXDesk/releases/latest/download/TorrentXDesk-Setup.exe)**
+---
 
-Prefer an MSI package? [TorrentXDesk-Setup.msi](https://github.com/thetitanreddy/TorrentXDesk/releases/latest/download/TorrentXDesk-Setup.msi)
+## <img src="assets/os/windows.svg" width="26" align="top" alt=""> Windows
+
+Windows 10 / 11, 64-bit.
+
+<a href="https://github.com/thetitanreddy/TorrentXDesk/releases/latest/download/TorrentXDesk-Setup.exe"><b>⬇️ TorrentXDesk-Setup.exe</b></a> (recommended) &nbsp;·&nbsp; <a href="https://github.com/thetitanreddy/TorrentXDesk/releases/latest/download/TorrentXDesk-Setup.msi">TorrentXDesk-Setup.msi</a>
 
 > **"Windows protected your PC"?** Windows shows this for new apps it doesn't recognise yet.
 > Click **More info → Run anyway** to install.
 
-### Linux (64-bit)
+<a id="linux"></a>
 
-| Your Linux | Download | Install |
-|---|---|---|
-| Ubuntu, Debian, Linux Mint, Pop!_OS | [TorrentXDesk-linux-amd64.deb](https://github.com/thetitanreddy/TorrentXDesk/releases/latest/download/TorrentXDesk-linux-amd64.deb) | Double-click it, or `sudo apt install ./TorrentXDesk-linux-amd64.deb` |
-| Fedora, openSUSE | [TorrentXDesk-linux-x86_64.rpm](https://github.com/thetitanreddy/TorrentXDesk/releases/latest/download/TorrentXDesk-linux-x86_64.rpm) | `sudo dnf install ./TorrentXDesk-linux-x86_64.rpm` |
-| Any other distro | [TorrentXDesk-linux-x64.tar.gz](https://github.com/thetitanreddy/TorrentXDesk/releases/latest/download/TorrentXDesk-linux-x64.tar.gz) | Extract, then run `TorrentXDesk/bin/TorrentXDesk` |
+## <img src="assets/os/linux.svg" width="26" align="top" alt=""> Linux
+
+64-bit (x86_64). Pick the package for your Linux:
+
+| | Your Linux | Download | Install |
+|:-:|---|---|---|
+| <img src="assets/os/ubuntu.svg" width="22" alt="Ubuntu"> <img src="assets/os/debian.svg" width="22" alt="Debian"> <img src="assets/os/linuxmint.svg" width="22" alt="Linux Mint"> | Ubuntu, Debian, Linux Mint, Pop!_OS | [**.deb**](https://github.com/thetitanreddy/TorrentXDesk/releases/latest/download/TorrentXDesk-linux-amd64.deb) | Double-click it, or<br>`sudo apt install ./TorrentXDesk-linux-amd64.deb` |
+| <img src="assets/os/fedora.svg" width="22" alt="Fedora"> <img src="assets/os/opensuse.svg" width="22" alt="openSUSE"> | Fedora, openSUSE | [**.rpm**](https://github.com/thetitanreddy/TorrentXDesk/releases/latest/download/TorrentXDesk-linux-x86_64.rpm) | `sudo dnf install ./TorrentXDesk-linux-x86_64.rpm` |
+| <img src="assets/os/linux.svg" width="22" alt="Linux"> | Any other distro | [**.tar.gz**](https://github.com/thetitanreddy/TorrentXDesk/releases/latest/download/TorrentXDesk-linux-x64.tar.gz) | Extract, then run `TorrentXDesk/bin/TorrentXDesk` |
 
 [All releases](https://github.com/thetitanreddy/TorrentXDesk/releases)
 
@@ -42,4 +59,7 @@ Updating keeps your torrents and settings.
 
 ---
 
-Made by [Autcust](https://autcust.vercel.app). Only download and share content you have the right to.
+<p align="center">
+  Made by <a href="https://autcust.vercel.app">Autcust</a>. Only download and share content you have the right to.<br>
+  <sub>Windows and Linux logos are trademarks of their respective owners, shown to indicate platform support.</sub>
+</p>
