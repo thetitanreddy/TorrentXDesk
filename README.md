@@ -17,6 +17,12 @@
 
 ---
 
+> [!IMPORTANT]
+> **Does TorrentXDesk close by itself, or not open at all?** Versions 1.0.1 and 1.0.2 could crash when a torrent was added, and then keep crashing on start.
+> **Fix:** download the latest version below and install it over your current one. **Your torrents and downloaded files are kept** — they come back as soon as the new version opens.
+> Since 1.0.4, if anything ever goes wrong, TorrentXDesk opens in **safe mode** instead of failing to start.
+
+
 ## <img src="assets/os/windows.svg" width="26" align="top" alt=""> Windows
 
 Windows 10 / 11, 64-bit.
